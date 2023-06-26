@@ -48,27 +48,27 @@ const Experience = () => {
           </div>
         </div>
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>Others</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>Nodejs</h4>
-                <small className="text-light">Beginner</small>
+                <h4>Wordpress</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>PHP</h4>
-                <small className="text-light">Beginner</small>
+                <h4>Photoshop</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>MySQL</h4>
-                <small className="text-light">Beginner</small>
+                <h4>Event management</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
